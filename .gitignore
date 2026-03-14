@@ -1,0 +1,17 @@
+# MLflow
+mlflow.db
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Models
+deploy_model*
+*.pkl
+best_model.txt
+
+# Data
+data/*.csv
